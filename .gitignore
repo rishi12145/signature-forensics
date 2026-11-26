@@ -1,0 +1,8 @@
+drive/
+sample_data/
+dataset/
+cleaned_dataset/
+precomputed_features/
+*.pth
+*.joblib
+.ipynb_checkpoints/
